@@ -1,2 +1,2 @@
-# BANANINHA
+# LOJINHA
 Site de aprendisajem
